@@ -1,0 +1,2 @@
+      PID    PPID    PGID     WINPID  TTY  UID    STIME COMMAND
+    27764       1   27764      27764  con  500 15:06:51 /usr/msys-ssh-1000-18/ps
